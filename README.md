@@ -69,4 +69,4 @@ I am actively looking to collaborate with fellow **ProDev Frontend Learners**!
 - [ ] Expand GraphQL schemas to support more complex nested queries.
 
 ---
-*Created by [Your Name] - 2026 ALX ProDev Backend Engineering Learner.*
+*Created by Khalil Hafez - 2026 ALX ProDev Backend Engineering Learner.*
